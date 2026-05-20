@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-I'm Dhruv Madhwal, a CS grad student at Arizona State University. I’m interested in reliable ML systems, especially hallucination detection, multi-hop question answering, and evaluating LLMs/VLMs. I like turning research ideas into working software through agents, retrieval systems, and ML applications. I’m just as intrigued by the system behind them: event-driven architectures, distributed data platforms, and scalable pipelines.
+I'm Dhruv Madhwal, a CS grad student at Arizona State University who likes building software at the intersection of ML, NLP, and reliable AI. My work focuses on hallucination detection, multi-hop question answering, LLM/VLM evaluation, and compositional reasoning in vision-language models. I enjoy turning research ideas into working software: agents, retrieval pipelines, ML applications, backend services, and tools people can actually use. I also spend time on the systems side: event-driven architectures, distributed data platforms, scalable pipelines, and production-oriented engineering.
 
-- 🔭 I’m currently working on advancing my thesis on hallucination detection and improving LLM reliability for multi-hop question answering.
+- 🔭 I’m advancing my thesis on hallucination detection and LLM reliability for multi-hop question answering.
 - 🌱 I’m currently learning ML system design and large-scale data systems.
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/dhruvmadhwal/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" />
+  <a href="https://www.linkedin.com/in/dhruvmadhwal/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   &nbsp;
   <a href="mailto:dmadhwal@asu.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="35" width="35" />
   </a>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhruvmadhwal&label=Profile%20views&color=6f42c1&style=flat" alt="dhruvmadhwal profile views" />
